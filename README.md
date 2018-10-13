@@ -35,8 +35,8 @@ Após isso a pasta da aplicação selecionada estará assim:
 .  |_ Aplicação 2 <br />
 .  |_ ... <br />
 .  |_ Aplicação X <br />
-.      |_ <b>ArquivosDoPrograma <\b><br />
-.      |_ <b>Testes <\b><br />      
+.      |_ <b>ArquivosDoPrograma </b><br />
+.      |_ <b>Testes </b><br />      
 .      |_ Bruto <br />
 .         |_ Classe 1 <br />
 .         |_ Classe 2 <br />
